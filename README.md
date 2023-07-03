@@ -4,8 +4,6 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 >"O programa acelerção conta com 160 horas de conteudo e projetos"
 
-## Eletiva Java
-
 ## Fundamentos de Java
 
 - 1.1 - Fundamentos de Java
