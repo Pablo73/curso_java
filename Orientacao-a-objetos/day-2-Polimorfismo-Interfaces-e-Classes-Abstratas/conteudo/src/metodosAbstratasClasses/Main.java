@@ -26,4 +26,6 @@ public class Main {
             + " anos " + "salario de R$" + abstrataDeveloper.wage());
   }
 
+
+
 }

@@ -1,6 +1,6 @@
 package metodosAbstratasClasses;
 
-public class SeniorDeveloper extends AbstrataDeveloper {
+public class SeniorDeveloper extends AbstrataDeveloper implements Skillful {
 
   SeniorDeveloper(String language, int yearsOfExperience) {
     super(language, yearsOfExperience);
