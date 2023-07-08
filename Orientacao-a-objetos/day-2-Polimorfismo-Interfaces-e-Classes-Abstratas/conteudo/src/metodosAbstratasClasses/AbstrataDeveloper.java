@@ -1,6 +1,6 @@
 package metodosAbstratasClasses;
 
-public abstract class AbstrataDeveloper {
+public abstract class AbstrataDeveloper implements Skillful {
   public String language;
   public int yearsOfExperience;
 
@@ -10,7 +10,5 @@ public abstract class AbstrataDeveloper {
   }
 
   public abstract double wage();
-
-  public abstract String mainSkill();
 
 }
