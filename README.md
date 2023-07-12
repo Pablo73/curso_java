@@ -14,7 +14,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - 1.2 - Orientação a Objetos
   - Abstração, Encapsulamento e Herança
   - Polimorfismo, Interfaces e Classes Abstratas
-  - []()
+  - [Voting-system-project](https://github.com/Pablo73/voting-system-project)
 - 1.3 - Java Web
   - Introdução a Java Web
   - Introdução ao Spring
